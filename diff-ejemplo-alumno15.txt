@@ -1,0 +1,5 @@
+* Este es un fichero de ejemplo.
+*
+* Estas tres primeras líneas estaban escritas inicialmente.
+* 
+* Esta es la copia local
